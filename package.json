@@ -1,0 +1,24 @@
+{
+  "name": "intermachine-web-developmentkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/browser-sync": "^2.26.1",
+    "@types/gulp": "^4.0.6",
+    "@types/gulp-sass": "^4.0.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
